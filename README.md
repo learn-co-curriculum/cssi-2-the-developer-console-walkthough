@@ -98,4 +98,4 @@ What did you get? Why do you think you got that result?
 
 Our code and the results as use the JS Console are only there until we hit refresh. Think of the console as a place to test ideas quickly, not a place to build something that will endure for the ages. We will use it to introduce a few basic programming concepts before using them in a more permanent place... an actual web page.
 
-<a href='https://learn.co/lessons/cssi-2-the-developer-console-walkthrough' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/cssi-2-the-developer-console-walkthrough' title='CSSI Console Walkthough'>CSSI Console Walkthough</a> on Learn.co and start learning to code for free.</p>
